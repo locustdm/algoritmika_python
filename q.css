@@ -1,0 +1,18 @@
+*{
+    font-size: 20px;
+}
+
+QWidget{
+    background-color: #303136;
+    /* color:black; */
+    color: #7680FF;
+}
+QGroupBox{
+    /* background-color: #7680FF;  */
+    color: #7680FF;
+}
+
+QPushButton:hover{ 
+    background-color: #7680FF; 
+    color: #303136;
+}
