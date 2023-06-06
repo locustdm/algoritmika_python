@@ -21,7 +21,7 @@ print(get_dict(s_dict))
 ```
 # Задача 2
 ```python
-def print_dict(s_dict): #поменяла с get_dict
+def print_dict(s_dict): #поменяла с get_dict на print_dict
     d = dict()
     for s in s_dict.split():
         el = s.split("=")
